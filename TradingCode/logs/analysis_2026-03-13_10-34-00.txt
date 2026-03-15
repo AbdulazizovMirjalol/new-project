@@ -1,0 +1,39 @@
+GOLD TRADING ANALYSIS REPORT
+==================================================
+
+XAUUSD M15 - Last 5 Bars
+--------------------------------------------------
+               time    open    high     low   close  tick_volume  spread  real_volume      EMA_20      EMA_50       RSI     MACD  MACD_signal      ATR
+2026-03-13 06:30:00 5105.51 5107.15 5102.71 5104.48         2699       4            0 5109.931782 5110.558936 34.677746 1.414816     2.605775 7.545000
+2026-03-13 06:45:00 5104.47 5106.77 5103.15 5104.24         2037       4            0 5109.389707 5110.311135 34.932626 0.786435     2.241907 7.327857
+2026-03-13 07:00:00 5104.25 5109.48 5102.68 5109.13         2313       4            0 5109.364973 5110.264816 46.620047 0.675237     1.928573 7.117143
+2026-03-13 07:15:00 5109.11 5110.24 5104.91 5106.02         2059       4            0 5109.046404 5110.098352 26.340448 0.332330     1.609325 6.395714
+2026-03-13 07:30:00 5106.02 5111.15 5103.98 5109.84         1513       4            0 5109.121985 5110.088221 33.769380 0.364612     1.360382 6.490000
+
+FINAL ANALYSIS
+--------------------------------------------------
+Higher Timeframe: H1
+Entry Timeframe: M15
+H1 Trend: Bearish (Tushish)
+M15 Trend: Bearish (Tushish)
+Timeframe Alignment: H1 va M15 bir tomonda. Bearish alignment kuchli.
+RSI: 33.77
+RSI Status: Bearish momentum
+MACD Status: Bearish MACD momentum
+Support: 5102.68
+Resistance: 5128.53
+ATR: 6.49
+Price Location: Narx support va resistance oralig'ida.
+Entry Zone: Bearish setup: narx EMA20/resistance zonasiga yaqin.
+Summary: H1 va M15 bearish alignmentda. RSI va MACD ham bearish. Narx support ga yaqin, breakdown xavfi bor.
+Trade Comment: Sell setup shakllanmoqda. Resistance/EMA zonasi yaqinida kuzatish kerak.
+Setup Status: SELL WATCH
+Signal Strength: STRONG
+Trade Plan: Sell setup shakllanmoqda. Resistance/EMA yaqinida kuzatish kerak.
+Final Signal: WAIT
+Alert Message: ALERT: Sell setup kuzatilyapti.
+Suggested Entry: N/A
+Suggested Stop Loss: N/A
+Suggested Take Profit: N/A
+Risk/Reward Ratio: N/A
+Risk/Reward Ratio: N/A

@@ -1,0 +1,39 @@
+GOLD TRADING ANALYSIS REPORT
+==================================================
+
+XAUUSD M15 - Last 5 Bars
+--------------------------------------------------
+               time    open    high     low   close  tick_volume  spread  real_volume      EMA_20      EMA_50       RSI      MACD  MACD_signal       ATR
+2026-03-13 10:45:00 5076.16 5087.96 5075.94 5087.37         3934       4            0 5091.313745 5093.509311 36.901250 -6.464361    -4.439873 12.168571
+2026-03-13 11:00:00 5087.36 5097.11 5085.99 5092.43         4609       4            0 5091.420055 5093.466985 44.201467 -5.526363    -4.657171 12.160000
+2026-03-13 11:15:00 5092.43 5093.12 5084.20 5091.80         4199       4            0 5091.456240 5093.401613 41.725888 -4.778743    -4.681485 12.282143
+2026-03-13 11:30:00 5091.80 5092.76 5083.32 5085.52         3575       4            0 5090.890884 5093.092530 37.587319 -4.639510    -4.673090 12.508571
+2026-03-13 11:45:00 5085.52 5094.25 5084.97 5092.87         2847       4            0 5091.079371 5093.083803 48.022292 -3.891228    -4.516718 12.080000
+
+FINAL ANALYSIS
+--------------------------------------------------
+Higher Timeframe: H1
+Entry Timeframe: M15
+H1 Trend: Bearish (Tushish)
+M15 Trend: Bearish (Tushish)
+Timeframe Alignment: H1 va M15 bir tomonda. Bearish alignment kuchli.
+RSI: 48.02
+RSI Status: Bearish momentum
+MACD Status: Bullish MACD momentum
+Support: 5061.53
+Resistance: 5111.15
+ATR: 12.08
+Price Location: Narx support va resistance oralig'ida.
+Entry Zone: Bearish setup: narx EMA20/resistance zonasiga yaqin.
+Summary: H1 va M15 bearish alignmentda, RSI bearish, lekin MACD tiklanishga urinmoqda.
+Trade Comment: Sell setup shakllanmoqda. Resistance/EMA zonasi yaqinida kuzatish kerak.
+Setup Status: SELL WATCH
+Signal Strength: MEDIUM
+Trade Plan: Sell setup shakllanmoqda. Resistance/EMA yaqinida kuzatish kerak.
+Final Signal: WAIT
+Alert Message: ALERT: Sell setup kuzatilyapti.
+Suggested Entry: N/A
+Suggested Stop Loss: N/A
+Suggested Take Profit: N/A
+Risk/Reward Ratio: N/A
+Risk/Reward Ratio: N/A

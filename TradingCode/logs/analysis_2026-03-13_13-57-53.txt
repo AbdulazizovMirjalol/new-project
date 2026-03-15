@@ -1,0 +1,39 @@
+GOLD TRADING ANALYSIS REPORT
+==================================================
+
+XAUUSD M15 - Last 5 Bars
+--------------------------------------------------
+               time    open    high     low   close  tick_volume  spread  real_volume      EMA_20      EMA_50       RSI      MACD  MACD_signal       ATR
+2026-03-13 09:45:00 5089.36 5092.73 5082.34 5085.23         3513       4            0 5097.846551 5099.550417 29.523425 -4.995831    -2.504254  9.161429
+2026-03-13 10:00:00 5085.23 5085.23 5066.58 5078.07         6559       4            0 5095.963070 5098.708047 26.271339 -5.905913    -3.184586 10.176429
+2026-03-13 10:15:00 5077.97 5079.11 5061.53 5070.83         5881       4            0 5093.569444 5097.614791 23.335994 -7.129187    -3.973506 11.173571
+2026-03-13 10:30:00 5070.83 5084.44 5070.40 5076.16         4265       4            0 5091.911402 5096.773426 23.870661 -7.581162    -4.695037 11.690714
+2026-03-13 10:45:00 5076.16 5087.18 5075.94 5084.91         3482       4            0 5091.244602 5096.308194 34.642805 -7.150874    -5.186204 12.112857
+
+FINAL ANALYSIS
+--------------------------------------------------
+Higher Timeframe: H1
+Entry Timeframe: M15
+H1 Trend: Bearish (Tushish)
+M15 Trend: Bearish (Tushish)
+Timeframe Alignment: H1 va M15 bir tomonda. Bearish alignment kuchli.
+RSI: 34.64
+RSI Status: Bearish momentum
+MACD Status: Bearish MACD momentum
+Support: 5061.53
+Resistance: 5117.92
+ATR: 12.11
+Price Location: Narx support va resistance oralig'ida.
+Entry Zone: Bearish setup: narx EMA20/resistance zonasiga yaqin.
+Summary: H1 va M15 bearish alignmentda. RSI va MACD ham bearish. Narx support ga yaqin, breakdown xavfi bor.
+Trade Comment: Sell setup shakllanmoqda. Resistance/EMA zonasi yaqinida kuzatish kerak.
+Setup Status: SELL WATCH
+Signal Strength: STRONG
+Trade Plan: Sell setup shakllanmoqda. Resistance/EMA yaqinida kuzatish kerak.
+Final Signal: WAIT
+Alert Message: ALERT: Sell setup kuzatilyapti.
+Suggested Entry: N/A
+Suggested Stop Loss: N/A
+Suggested Take Profit: N/A
+Risk/Reward Ratio: N/A
+Risk/Reward Ratio: N/A
