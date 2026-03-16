@@ -172,6 +172,7 @@ def run_analysis():
         candle_confirmation,
         signal_strength,
     )
+    
 
     alert_message = generate_alert_message(
         final_signal,
