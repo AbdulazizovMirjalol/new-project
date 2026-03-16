@@ -1,0 +1,44 @@
+GOLD TRADING ANALYSIS REPORT
+==================================================
+
+XAUUSD M15 - Last 5 Bars
+--------------------------------------------------
+               time    open    high     low   close  tick_volume  spread  real_volume      EMA_20      EMA_50       RSI      MACD  MACD_signal       ATR
+2026-03-16 06:30:00 5021.55 5024.81 5014.61 5016.98         2752       4            0 5014.231539 5020.347235 69.454731 -0.309305    -2.816096 11.010000
+2026-03-16 06:45:00 5016.98 5017.05 5012.33 5012.81         1958       4            0 5014.096155 5020.051657 65.346657 -0.442875    -2.341452  9.802143
+2026-03-16 07:00:00 5012.81 5015.77 5011.15 5012.67         3050       4            0 5013.960331 5019.762180 56.689168 -0.553645    -1.983891  8.584286
+2026-03-16 07:15:00 5012.67 5013.17 5008.02 5010.93         2595       4            0 5013.671728 5019.415820 45.350109 -0.772925    -1.741698  7.960714
+2026-03-16 07:30:00 5010.93 5017.38 5003.28 5014.84         4307       4            0 5013.782992 5019.236376 49.569411 -0.624008    -1.518160  8.381429
+
+FINAL ANALYSIS
+--------------------------------------------------
+Higher Timeframe: H1
+Entry Timeframe: M15
+H1 Trend: Bearish (Tushish)
+M15 Trend: Bearish (Tushish)
+D1 Trend: BEARISH
+DXY Status: UNKNOWN
+News Time: False
+News Reason: Tinch vaqt
+Timeframe Alignment: H1 va M15 bir tomonda. Bearish alignment kuchli.
+RSI: 49.57
+RSI Status: Bearish momentum
+MACD Status: Bullish MACD momentum
+Candle Confirmation: Bullish candle confirmation (Engulfing)
+Support: 4982.63
+Resistance: 5026.29
+ATR: 8.38
+Price Location: Narx support va resistance oralig'ida.
+Entry Zone: Bearish setup: narx kuchli zonada (Resistance/EMA/FVG). (Narx Bearish FVG zonasida!)
+Summary: H1 va M15 bearish alignmentda, RSI bearish, lekin MACD tiklanishga urinmoqda.
+Trade Comment: Sell setup shakllanmoqda. Resistance/EMA zonasi yaqinida kuzatish kerak.
+Setup Status: SELL WATCH
+Signal Strength: STRONG
+Trade Plan: Sell setup shakllanmoqda. Resistance/EMA yaqinida kuzatish kerak.
+Final Signal: WAIT
+Alert Message: ALERT: Sell setup kuzatilyapti.
+Reason: WAIT sababi: setup hali READY holatiga kelmagan.
+Suggested Entry: N/A
+Suggested Stop Loss: N/A
+Suggested Take Profit: N/A
+Risk/Reward Ratio: N/A

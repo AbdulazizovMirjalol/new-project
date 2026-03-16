@@ -1,0 +1,44 @@
+GOLD TRADING ANALYSIS REPORT
+==================================================
+
+XAUUSD M15 - Last 5 Bars
+--------------------------------------------------
+               time    open    high     low   close  tick_volume  spread  real_volume      EMA_20      EMA_50       RSI      MACD  MACD_signal       ATR
+2026-03-16 13:45:00 5015.58 5018.08 4992.84 4997.00         5403       4            0 4998.835271 5005.702391 50.000000 -1.395736    -4.682865 12.666429
+2026-03-16 14:00:00 4997.00 5006.66 4994.38 5005.57         4842       4            0 4999.476674 5005.697199 58.791895 -0.743585    -3.895009 12.570714
+2026-03-16 14:15:00 5005.57 5024.76 5002.75 5023.01         5563       4            0 5001.717943 5006.376133 63.546003  1.167059    -2.882595 13.282857
+2026-03-16 14:30:00 5023.01 5025.16 5018.93 5021.88         5307       4            0 5003.638139 5006.984128 66.182976  2.560560    -1.793964 12.904286
+2026-03-16 14:45:00 5021.86 5022.26 5012.23 5020.41         4697       4            0 5005.235459 5007.510632 64.175467  3.505890    -0.733993 13.127143
+
+FINAL ANALYSIS
+--------------------------------------------------
+Higher Timeframe: H1
+Entry Timeframe: M15
+H1 Trend: Bearish (Tushish)
+M15 Trend: Bearish (Tushish)
+D1 Trend: BEARISH
+DXY Status: UNKNOWN
+News Time: True
+News Reason: AQSH yangiliklari vaqti (xavfli vaqt)
+Timeframe Alignment: H1 va M15 bir tomonda. Bearish alignment kuchli.
+RSI: 64.18
+RSI Status: Bullish momentum
+MACD Status: Bullish MACD momentum
+Candle Confirmation: Strong Bullish confirmation (Liquidity Sweep / Pin Bar)
+Support: 4970.11
+Resistance: 5022.63
+ATR: 13.13
+Price Location: Narx resistance ga yaqin.
+Entry Zone: Bearish setup: narx kuchli zonada (Resistance/EMA/FVG). (Narx Bullish FVG zonasida!)
+Summary: M15 trend bearish, lekin momentum tiklanishga urinmoqda.
+Trade Comment: Sell setup shakllanmoqda. Resistance/EMA zonasi yaqinida kuzatish kerak.
+Setup Status: SELL WATCH
+Signal Strength: STRONG
+Trade Plan: Sell setup shakllanmoqda. Resistance/EMA yaqinida kuzatish kerak.
+Final Signal: WAIT
+Alert Message: ALERT: Sell setup kuzatilyapti.
+Reason: STOP: AQSH yangiliklari vaqti (xavfli vaqt)
+Suggested Entry: N/A
+Suggested Stop Loss: N/A
+Suggested Take Profit: N/A
+Risk/Reward Ratio: N/A

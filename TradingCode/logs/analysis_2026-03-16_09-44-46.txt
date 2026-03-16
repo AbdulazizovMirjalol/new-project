@@ -1,0 +1,44 @@
+GOLD TRADING ANALYSIS REPORT
+==================================================
+
+XAUUSD M15 - Last 5 Bars
+--------------------------------------------------
+               time    open    high     low   close  tick_volume  spread  real_volume      EMA_20      EMA_50       RSI      MACD  MACD_signal       ATR
+2026-03-16 05:30:00 5011.19 5019.01 5010.22 5018.87         3479       4            0 5011.440155 5023.933121 48.491973 -4.279721    -6.386244 14.616429
+2026-03-16 05:45:00 5018.87 5020.77 5016.05 5019.14         3036       4            0 5012.173473 5023.745155 50.984386 -3.197694    -5.748534 14.331429
+2026-03-16 06:00:00 5019.14 5026.05 5019.04 5024.33         2786       4            0 5013.331238 5023.768090 48.497548 -1.899494    -4.978726 13.684286
+2026-03-16 06:15:00 5024.31 5026.29 5020.77 5021.55         2433       4            0 5014.113977 5023.681106 48.154050 -1.082506    -4.199482 13.148571
+2026-03-16 06:30:00 5021.55 5024.81 5014.61 5016.92         2740       4            0 5014.381217 5023.415965 69.401557 -0.799424    -3.519471 11.010000
+
+FINAL ANALYSIS
+--------------------------------------------------
+Higher Timeframe: H1
+Entry Timeframe: M15
+H1 Trend: Bearish (Tushish)
+M15 Trend: Bearish (Tushish)
+D1 Trend: BEARISH
+DXY Status: UNKNOWN
+News Time: False
+News Reason: Tinch vaqt
+Timeframe Alignment: H1 va M15 bir tomonda. Bearish alignment kuchli.
+RSI: 69.40
+RSI Status: Bullish momentum
+MACD Status: Bullish MACD momentum
+Candle Confirmation: Bearish candle confirmation
+Support: 4982.63
+Resistance: 5031.05
+ATR: 11.01
+Price Location: Narx support va resistance oralig'ida.
+Entry Zone: Bearish setup: narx kuchli zonada (Resistance/EMA/FVG). (Narx Bullish FVG zonasida!)
+Summary: M15 trend bearish, lekin momentum tiklanishga urinmoqda.
+Trade Comment: Sell setup shakllanmoqda. Resistance/EMA zonasi yaqinida kuzatish kerak.
+Setup Status: SELL WATCH
+Signal Strength: MEDIUM
+Trade Plan: Sell setup shakllanmoqda. Resistance/EMA yaqinida kuzatish kerak.
+Final Signal: WAIT
+Alert Message: ALERT: Sell setup kuzatilyapti.
+Reason: WAIT sababi: setup hali READY holatiga kelmagan.
+Suggested Entry: N/A
+Suggested Stop Loss: N/A
+Suggested Take Profit: N/A
+Risk/Reward Ratio: N/A

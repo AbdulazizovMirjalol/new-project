@@ -1,0 +1,44 @@
+GOLD TRADING ANALYSIS REPORT
+==================================================
+
+XAUUSD M15 - Last 5 Bars
+--------------------------------------------------
+               time    open    high     low   close  tick_volume  spread  real_volume      EMA_20      EMA_50       RSI     MACD  MACD_signal      ATR
+2026-03-16 08:00:00 5017.51 5027.83 5013.04 5027.29         4852       4            0 5015.518016 5020.102635 67.380291 0.771355    -0.908169 8.338571
+2026-03-16 08:15:00 5027.29 5036.17 5025.59 5027.73         5324       4            0 5016.681062 5020.401747 70.376626 1.604433    -0.405648 8.327857
+2026-03-16 08:30:00 5027.74 5029.56 5020.97 5022.49         3975       4            0 5017.234294 5020.483639 69.093019 1.820841     0.039649 8.319286
+2026-03-16 08:45:00 5022.49 5022.99 5005.48 5012.16         5954       4            0 5016.751028 5020.157222 50.823290 1.145594     0.260838 8.638571
+2026-03-16 09:00:00 5012.16 5016.47 5009.66 5012.16         3716       4            0 5016.313787 5019.843606 43.451103 0.603500     0.329371 8.497143
+
+FINAL ANALYSIS
+--------------------------------------------------
+Higher Timeframe: H1
+Entry Timeframe: M15
+H1 Trend: Bearish (Tushish)
+M15 Trend: Bearish (Tushish)
+D1 Trend: BEARISH
+DXY Status: UNKNOWN
+News Time: False
+News Reason: Tinch vaqt
+Timeframe Alignment: H1 va M15 bir tomonda. Bearish alignment kuchli.
+RSI: 43.45
+RSI Status: Bearish momentum
+MACD Status: Bullish MACD momentum
+Candle Confirmation: Strong Bearish confirmation (Liquidity Sweep / Pin Bar)
+Support: 4997.92
+Resistance: 5036.17
+ATR: 8.50
+Price Location: Narx support va resistance oralig'ida.
+Entry Zone: Bearish setup: narx kuchli zonada (Resistance/EMA/FVG). (Narx Bearish FVG zonasida!)
+Summary: H1 va M15 bearish alignmentda, RSI bearish, lekin MACD tiklanishga urinmoqda.
+Trade Comment: Sell setup tayyor. Trend, momentum va candle confirmation sell tomonida.
+Setup Status: READY SELL
+Signal Strength: STRONG
+Trade Plan: Sell setup tayyor. Entry, SL va TP asosida sell ko'rib chiqilishi mumkin.
+Final Signal: WAIT
+Alert Message: ALERT: Setup bor, lekin risk/reward yoki tasdiq yetarli emas.
+Reason: WAIT sababi: SELL uchun barcha final shartlar hali to‘liq bajarilmagan, risk/reward hali yetarli emas.
+Suggested Entry: 5012.16
+Suggested Stop Loss: 5037.87
+Suggested Take Profit: 4997.92
+Risk/Reward Ratio: 0.55

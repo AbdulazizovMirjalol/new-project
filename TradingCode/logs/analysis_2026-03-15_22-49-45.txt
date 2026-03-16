@@ -1,0 +1,39 @@
+GOLD TRADING ANALYSIS REPORT
+==================================================
+
+XAUUSD M15 - Last 5 Bars
+--------------------------------------------------
+               time    open    high     low   close  tick_volume  spread  real_volume      EMA_20      EMA_50       RSI       MACD  MACD_signal       ATR
+2026-03-13 21:45:00 5025.45 5025.92 5009.66 5016.44         7910       4            0 5046.828018 5063.007678 31.336476 -12.913929   -11.405348 11.472857
+2026-03-13 22:00:00 5016.61 5021.26 5012.32 5016.66         3283       4            0 5043.954874 5061.190122 27.778666 -13.722704   -11.868819 11.194286
+2026-03-13 22:15:00 5016.66 5021.55 5012.30 5014.01         2677       4            0 5041.102981 5059.339921 24.862486 -14.411371   -12.377329 11.135000
+2026-03-13 22:30:00 5013.97 5025.45 5013.10 5024.77         2439       4            0 5039.547459 5057.984238 24.578009 -13.928346   -12.687533 11.052857
+2026-03-13 22:45:00 5024.77 5024.79 5016.91 5018.98         3701       4            0 5037.588653 5056.454660 22.717994 -13.853060   -12.920638 10.908571
+
+FINAL ANALYSIS
+--------------------------------------------------
+Higher Timeframe: H1
+Entry Timeframe: M15
+H1 Trend: Bearish (Tushish)
+M15 Trend: Bearish (Tushish)
+Timeframe Alignment: H1 va M15 bir tomonda. Bearish alignment kuchli.
+RSI: 22.72
+RSI Status: Oversold (bozor juda tushgan)
+MACD Status: Bearish MACD momentum
+Support: 5009.66
+Resistance: 5063.88
+ATR: 10.91
+Price Location: Narx support ga yaqin.
+Entry Zone: Bearish setup: narx kuchli zonada (Resistance/EMA/FVG). (Narx Bearish FVG zonasida!)
+Summary: H1 va M15 bearish alignmentda. RSI va MACD ham bearish. Narx support ga yaqin, breakdown xavfi bor.
+Trade Comment: Sell setup shakllanmoqda. Resistance/EMA zonasi yaqinida kuzatish kerak.
+Setup Status: SELL WATCH
+Signal Strength: WEAK
+Trade Plan: Sell setup shakllanmoqda. Resistance/EMA yaqinida kuzatish kerak.
+Final Signal: WAIT
+Alert Message: ALERT: Sell setup kuzatilyapti.
+Suggested Entry: N/A
+Suggested Stop Loss: N/A
+Suggested Take Profit: N/A
+Risk/Reward Ratio: N/A
+Risk/Reward Ratio: N/A

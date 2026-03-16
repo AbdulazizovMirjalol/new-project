@@ -1,0 +1,44 @@
+GOLD TRADING ANALYSIS REPORT
+==================================================
+
+XAUUSD M15 - Last 5 Bars
+--------------------------------------------------
+               time    open    high     low   close  tick_volume  spread  real_volume      EMA_20      EMA_50       RSI      MACD  MACD_signal       ATR
+2026-03-16 09:30:00 5002.43 5007.32 4991.92 4992.74         5791       4            0 5012.597232 5016.332146 25.770824 -2.126831     0.008912  9.597857
+2026-03-16 09:45:00 4992.76 5000.12 4992.76 4995.39         3902       4            0 5010.958448 5015.510885 29.895481 -3.224667    -0.637803  9.730714
+2026-03-16 10:00:00 4995.39 5000.49 4988.57 4988.74         5983       4            0 5008.842405 5014.461046 28.969318 -4.578531    -1.425949  9.853571
+2026-03-16 10:15:00 4988.74 5003.46 4987.91 4997.00         6385       4            0 5007.714557 5013.776299 38.902148 -4.928156    -2.126390 10.627143
+2026-03-16 10:30:00 4997.00 4998.60 4988.60 4989.74         2851       4            0 5006.002694 5012.833699 35.366943 -5.725063    -2.846125 11.011429
+
+FINAL ANALYSIS
+--------------------------------------------------
+Higher Timeframe: H1
+Entry Timeframe: M15
+H1 Trend: Bearish (Tushish)
+M15 Trend: Bearish (Tushish)
+D1 Trend: BEARISH
+DXY Status: UNKNOWN
+News Time: True
+News Reason: AQSH yangiliklari vaqti (xavfli vaqt)
+Timeframe Alignment: H1 va M15 bir tomonda. Bearish alignment kuchli.
+RSI: 35.37
+RSI Status: Bearish momentum
+MACD Status: Bearish MACD momentum
+Candle Confirmation: Weak bearish candle
+Support: 4997.92
+Resistance: 5036.17
+ATR: 11.01
+Price Location: Narx support ga yaqin.
+Entry Zone: Bearish trend bor, lekin narx entry zonasidan uzoq.
+Summary: H1 va M15 bearish alignmentda. RSI va MACD ham bearish. Narx support ga yaqin, breakdown xavfi bor.
+Trade Comment: Hozircha aniq trade setup yo‘q. Shoshilmasdan kutish kerak.
+Setup Status: NO TRADE
+Signal Strength: WEAK
+Trade Plan: Hozircha trade ochish tavsiya etilmaydi.
+Final Signal: WAIT
+Alert Message: ALERT: Hozircha signal kuchsiz.
+Reason: STOP: AQSH yangiliklari vaqti (xavfli vaqt)
+Suggested Entry: N/A
+Suggested Stop Loss: N/A
+Suggested Take Profit: N/A
+Risk/Reward Ratio: N/A

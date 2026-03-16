@@ -1,0 +1,44 @@
+GOLD TRADING ANALYSIS REPORT
+==================================================
+
+XAUUSD M15 - Last 5 Bars
+--------------------------------------------------
+               time    open    high     low   close  tick_volume  spread  real_volume      EMA_20      EMA_50       RSI      MACD  MACD_signal      ATR
+2026-03-16 07:30:00 5010.93 5017.38 5003.28 5016.33         4850       4            0 5014.056910 5021.592036 50.831234 -0.895929    -2.057872 8.381429
+2026-03-16 07:45:00 5016.33 5020.08 5015.44 5017.51         4385       4            0 5014.385776 5021.431956 53.825090 -0.557734    -1.757845 8.137857
+2026-03-16 08:00:00 5017.51 5027.83 5013.04 5027.29         4852       4            0 5015.614749 5021.661684 67.380291  0.493760    -1.307524 8.338571
+2026-03-16 08:15:00 5027.29 5036.17 5025.59 5027.73         5324       4            0 5016.768583 5021.899657 70.376626  1.347053    -0.776609 8.327857
+2026-03-16 08:30:00 5027.74 5029.56 5020.97 5023.48         3135       4            0 5017.407765 5021.961631 70.246123  1.661205    -0.289046 8.319286
+
+FINAL ANALYSIS
+--------------------------------------------------
+Higher Timeframe: H1
+Entry Timeframe: M15
+H1 Trend: Bearish (Tushish)
+M15 Trend: Bearish (Tushish)
+D1 Trend: BEARISH
+DXY Status: UNKNOWN
+News Time: False
+News Reason: Tinch vaqt
+Timeframe Alignment: H1 va M15 bir tomonda. Bearish alignment kuchli.
+RSI: 70.25
+RSI Status: Overbought (bozor juda qizigan)
+MACD Status: Bullish MACD momentum
+Candle Confirmation: Bearish candle confirmation (Engulfing)
+Support: 4997.92
+Resistance: 5026.29
+ATR: 8.32
+Price Location: Narx resistance ga yaqin.
+Entry Zone: Bearish setup: narx kuchli zonada (Resistance/EMA/FVG). (Narx Bullish FVG zonasida!)
+Summary: M15 trend bearish, lekin momentum tiklanishga urinmoqda.
+Trade Comment: Sell setup tayyor. Trend, momentum va candle confirmation sell tomonida.
+Setup Status: READY SELL
+Signal Strength: STRONG
+Trade Plan: Sell setup tayyor. Entry, SL va TP asosida sell ko'rib chiqilishi mumkin.
+Final Signal: SELL
+Alert Message: ALERT: Sell signali tayyor.
+Reason: SELL signal tasdiqlandi. Setup, candle confirmation va risk/reward mos keldi. | AUTO TRADE OFF
+Suggested Entry: 5023.48
+Suggested Stop Loss: 5027.95
+Suggested Take Profit: 4997.92
+Risk/Reward Ratio: 5.72

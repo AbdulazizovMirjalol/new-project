@@ -1,0 +1,44 @@
+GOLD TRADING ANALYSIS REPORT
+==================================================
+
+XAUUSD M15 - Last 5 Bars
+--------------------------------------------------
+               time    open    high     low   close  tick_volume  spread  real_volume      EMA_20      EMA_50       RSI      MACD  MACD_signal      ATR
+2026-03-16 09:00:00 5012.16 5016.47 5009.66 5009.92         3931       4            0 5016.109946 5019.823861 41.630821  0.403397     0.263437 8.497143
+2026-03-16 09:15:00 5009.96 5009.96 4998.22 5002.43         5486       4            0 5014.807094 5019.141749 36.233317 -0.762120     0.058325 8.998571
+2026-03-16 09:30:00 5002.43 5007.32 4991.92 4992.74         5791       4            0 5012.705466 5018.106386 25.770824 -2.439580    -0.441256 9.597857
+2026-03-16 09:45:00 4992.76 5000.12 4992.76 4995.39         3902       4            0 5011.056374 5017.215547 29.895481 -3.514632    -1.055931 9.730714
+2026-03-16 10:00:00 4995.39 4999.48 4994.64 4996.99          939       4            0 5009.716720 5016.422388 33.902400 -4.189221    -1.682589 9.347857
+
+FINAL ANALYSIS
+--------------------------------------------------
+Higher Timeframe: H1
+Entry Timeframe: M15
+H1 Trend: Bearish (Tushish)
+M15 Trend: Bearish (Tushish)
+D1 Trend: BEARISH
+DXY Status: UNKNOWN
+News Time: False
+News Reason: Tinch vaqt
+Timeframe Alignment: H1 va M15 bir tomonda. Bearish alignment kuchli.
+RSI: 33.90
+RSI Status: Bearish momentum
+MACD Status: Bearish MACD momentum
+Candle Confirmation: Weak bullish candle
+Support: 4991.92
+Resistance: 5036.17
+ATR: 9.35
+Price Location: Narx support ga yaqin.
+Entry Zone: Bearish trend bor, lekin narx entry zonasidan uzoq.
+Summary: H1 va M15 bearish alignmentda. RSI va MACD ham bearish. Narx support ga yaqin, breakdown xavfi bor.
+Trade Comment: Hozircha aniq trade setup yo‘q. Shoshilmasdan kutish kerak.
+Setup Status: NO TRADE
+Signal Strength: WEAK
+Trade Plan: Hozircha trade ochish tavsiya etilmaydi.
+Final Signal: WAIT
+Alert Message: ALERT: Hozircha signal kuchsiz.
+Reason: WAIT sababi: setup hali READY holatiga kelmagan, signal strength yetarli emas.
+Suggested Entry: N/A
+Suggested Stop Loss: N/A
+Suggested Take Profit: N/A
+Risk/Reward Ratio: N/A
